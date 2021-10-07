@@ -1,3 +1,5 @@
+Click on [tesla-clone](https://hopeful-fermi-a5ce6c.netlify.app) to see the project.
+
 ## Topics Learned
 
 - styled components
